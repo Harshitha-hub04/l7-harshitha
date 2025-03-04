@@ -8,4 +8,17 @@ commit 6
 commit 7
 source code management
 rajat sir
-
+#include <stdio.h>
+int main()
+{
+int num
+if
+{
+printf()
+}
+else
+{
+printf()
+}
+return 0
+}
